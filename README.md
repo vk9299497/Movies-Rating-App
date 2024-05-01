@@ -1,4 +1,4 @@
-# Movie-Rating-App (Springboot + React + Mongo Full Stack Application)
+# Movie-Rating-App  (Springboot + React + Mongo Full Stack Application)
 
 Introducing "Gold" - The Ultimate Movie Rating App!
 Gold is a cutting-edge movie rating app that revolutionizes the way you discover, review, 
